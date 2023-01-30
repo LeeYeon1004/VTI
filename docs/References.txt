@@ -1,0 +1,17 @@
+1. Git flow là gì?
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+2. Tóm tắt git flow
+https://danielkummer.github.io/git-flow-cheatsheet/index.vi_VN.html
+
+3. Git flow cheatsheet
+https://danielkummer.github.io/git-flow-cheatsheet/
+
+4. Git Stash - lưu code không cần commit
+https://nguyendangkhiemit.wordpress.com/2017/07/11/git-luu-code-ma-khong-can-commit/
+
+5. git-flight-rules
+https://github.com/tuannguyenssu/git-flight-rules
+
+6. Hướng dẫn rebase
+Tham khảo file Huong-dan-Rebase-Git.xlsx
