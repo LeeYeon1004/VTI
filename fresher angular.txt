@@ -1,0 +1,28 @@
+padding và margin
+CSS Margin Collapse là gì, đưa ví dụ
+Các thành phần chính của flexbox
+Dùng flexbox để các item nằm giữa theo trục x và y
+Sử dụng responsive
+
+Phân biệt cookie, sessionStorage và localStorage
+Một closure là gì, và bạn sẽ sử dụng nó như thế nào / tại sao bạn sử dụng nó?
+Xử lý bất đồng bộ thế nào
+Xử lý callback hell
+Chạy đồng thời và lần lượt nhiều promise thế nào?
+Event loop là gì? Hoạt động thế nào?
+
+SPA là gì?
+Vòng đời của ứng dụng angular
+Directive là gì? có mấy loại?
+Có mấy các để truyền dữ liệu giữa các component
+Có mấy loại form?
+Khi dùng ngFor, khi thay đổi 1 item trong list items thì chỉ render lại đúng item đó thay vì render cả list
+Hiểu thế nào về rxjs?
+Đã từng sử dụng operators nào?
+Khác nhau giữa promise với observable? Các trạng thái của 2 object này?
+Làm sao để chạy đồng thời và tuần tự 2 observable?
+Service trong angular?
+Share dữ liệu giữa 2 module
+Có 1 ô input search, làm thế nào để sau khi nhập dữ liệu 2s thì mới có action search
+lazy load là gì? lazy load trong angular
+Hiểu về SOLID
